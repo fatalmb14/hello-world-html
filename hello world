@@ -1,0 +1,14 @@
+<!doctype html>
+
+<html>
+<head>
+<title>Título da página</title>
+<meta charset="utf-8" />
+
+</head>
+
+<body>
+<h1>Hello world</h1>
+<p> Este é apenas um parágrafo da minha <strong>primeira</strong> pág HTML.<br />E esta é a sgunda linha do parágrafo.</p
+</body>
+</html>
